@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p>My Portfolio</p>
+          <h1>Portfolio</h1>
 
           <a href="https://wwe-rockstars.herokuapp.com/">link 1</a>
         </header>
